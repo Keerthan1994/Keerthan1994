@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src=”https://user-images.githubusercontent.com/61081801/148132065-8a175eba-778d-4f81-98d2-67ca12b50abe.png” alt="my banner">
+<img 
+src=”https://user-images.githubusercontent.com/61081801/148132065-8a175eba-778d-4f81-98d2-67ca12b50abe.png” alt="my banner">
 
 
 
