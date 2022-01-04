@@ -1,4 +1,4 @@
-### Hi there! I am Keerthan 👋
+### 
 
 <!--
 **Keerthan1994/Keerthan1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,16 @@ Here are some ideas to get you started:
 src="https://user-images.githubusercontent.com/61081801/148132065-8a175eba-778d-4f81-98d2-67ca12b50abe.png" alt="my banner">
 
 
-<p align=”center">
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/61081801/148132065-8a175eba-778d-4f81-98d2-67ca12b50abe.png" alt=”my banner”>
-</p>
+<h1 align="left">Hi there! I am Keerthan 👋</h1>
 
+<p>My name is Keerthan. I am a vlsi enthusiast and here are a few things I'm interested in:</p>
+
+<ul>
+  <li>Physical Design</li>
+  <li>Low power</li>
+</ul>
+
+<hr>
 
 
 
