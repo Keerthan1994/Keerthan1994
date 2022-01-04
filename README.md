@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <img 
-src=”https://user-images.githubusercontent.com/61081801/148132065-8a175eba-778d-4f81-98d2-67ca12b50abe.png” alt="my banner">
+src="https://user-images.githubusercontent.com/61081801/148132065-8a175eba-778d-4f81-98d2-67ca12b50abe.png" alt="my banner">
 
 
-<p align=”center”>
+<p align=”center">
 <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/61081801/148132065-8a175eba-778d-4f81-98d2-67ca12b50abe.png" alt=”my banner”>
 </p>
 
